@@ -1,0 +1,22 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family: 'Space Mono', monospace;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+    width: 90%;
+    height: 450px;
+    margin-left: 70px;
+   
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
